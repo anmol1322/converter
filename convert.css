@@ -1,0 +1,37 @@
+.b{
+    background-color: aqua;
+}
+.div1{
+    background-color: white;
+    width:500px;
+    height: 100px;
+    margin-top: 300px;
+    margin-left: 550px;
+}
+.div1{
+    display: flex;
+    flex-direction: row;
+}
+.b2{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 110px;
+    font-size: large;
+    margin-top: 4px;
+}
+.container{
+  align-items: center;
+  margin-left: 30px;
+}
+.container1{
+    align-items: center;
+    margin-left: 80px;
+}
+.part{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.head{
+    align-items: top;
+}
